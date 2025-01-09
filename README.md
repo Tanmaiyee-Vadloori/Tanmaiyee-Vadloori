@@ -47,11 +47,4 @@ I'm always open to discussing ideas, collaborating on projects, or simply sharin
 
 Feel free to explore the repository, raise issues, or suggest improvements. Let’s learn and grow together! 🚀
 
----
-
-## Contributions and Feedback 📝
-Contributions are welcome! If you find anything interesting, feel free to fork the repository, create pull requests, or open issues. Your feedback and suggestions are greatly appreciated.
-
----
-
 Thank you for visiting, and happy coding! 🎉
