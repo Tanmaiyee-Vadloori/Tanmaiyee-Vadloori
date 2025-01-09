@@ -43,7 +43,7 @@ I'm always open to discussing ideas, collaborating on projects, or simply sharin
 
 - **LinkedIn**: [Tanmaiyee Vadloori](https://www.linkedin.com/in/tanmaiyee-vadloori)
 - **Twitter**: [Tanmaiyee](https://x.com/tanmaivadloori)
-- **Email**: (mailto:tanmaiyee.vadloori@gmail.com)
+- **Email**: (tanmaiyee.vadloori@gmail.com)
 
 Feel free to explore the repository, raise issues, or suggest improvements. Let’s learn and grow together! 🚀
 
