@@ -2,7 +2,7 @@
 
 ## Hi 👋 I am Tanmaiyee!
 
-I'm a **Senior DevSecOps Engineer** with extensive experience in managing and securing large-scale application infrastructures. My professional journey has been centered around bridging the gaps between development, security, and operations to create resilient, scalable, and secure systems. I also passionate about developer communities, I host meetups, share insights, and advocate for technology. AI fascinates me, and I’m always exploring the latest research and trends. 
+I'm a **Senior DevSecOps Engineer** with extensive experience in managing and securing large-scale application infrastructures. My professional journey has been centered around bridging the gaps between development, security, and operations to create resilient, scalable, and secure systems. I am also passionate about developer communities, I host meetups, share insights, and advocate for technology. AI fascinates me, and I’m always exploring the latest research and trends. 
 
 ### What I Do 🛠️
 
